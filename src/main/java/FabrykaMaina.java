@@ -3,7 +3,8 @@ public class FabrykaMaina {
 
     LiczbyPierwsze x = new LiczbyPierwsze();
         System.out.println(x.czyJestPierwsza(5));
-
+        SilniaPiec aha = new SilniaPiec();
+        System.out.println(SilniaPiec.silnia());
     }
 
     }
