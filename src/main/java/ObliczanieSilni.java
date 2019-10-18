@@ -10,7 +10,7 @@ public class ObliczanieSilni {
         return result;
     }
 
-    public static int silniaRekur(int x) {
+    public  static int silniaRekur(int x) {
         if (x < 1) {
             return 1;
 
